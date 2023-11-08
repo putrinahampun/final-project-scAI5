@@ -1,29 +1,50 @@
 # FINAL PROJECT TITLE HERE
 
-## Table of Contents
-
 ## Project Description
 Please describe your Startup Campus final project here. You may include your model architecture in JPEG or GIF.
 
+Contributor:
+| Full Name | Affiliation | Email | Role |
+| ... | ... | ... | ... |
+| ... | ... | ... | ... |
+| Nicholas Dominic | Startup Campus, AI Track | nic.dominic@icloud.com | Supervisor |
 
-- project description (with model architecture img/gif, optional)
-- setup:
-	- package (requirements) / dependencies
-	- env: machine and os
+## Setup
+### Prerequisite Packages (Dependencies)
+- package name (version: ...)
+- package name (version: ...)
 
-- info datasets
-- performance results
+### Environment
+| CPU | Example: |
+| GPU | Example: |
+| RAM | Example:  |
+| OS | Example: |
 
-- hasil test image
-- hasil deployment (opsional)
+## Dataset
 
-- presentation deck (link)
-- business model canvas
+## Results
+### Model Performance
 
-- short video (latar belakang & cara kerja project) (link)
-- code/paper references
-- additional comments
+### Testing
 
-- citation (how to cite)
-- license: For academic and non-commercial use only. MIT License
-- acknowledgement
+### Deployment (Optional)
+
+## Supporting Documents
+### Presentation Deck
+
+### Business Model Canvas
+
+### Short Video
+latar belakang & cara kerja project)
+
+## Code and Paper References
+
+## Additional Comments
+
+## How to Cite
+
+## License
+For academic and non-commercial use only.
+
+## Acknowledgement
+Startup Campus
