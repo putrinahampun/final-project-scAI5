@@ -1,4 +1,4 @@
-# <FINAL PROJECT TITLE>
+# FINAL PROJECT TITLE HERE
 
 repo:
 - dataset
