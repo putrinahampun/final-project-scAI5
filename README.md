@@ -1,11 +1,10 @@
 # FINAL PROJECT TITLE HERE
 
-repo:
-- dataset
-- program
+## Table of Contents
 
-readme:
-- table of contents
+## Project Description
+Please describe your Startup Campus final project here. You may include your model architecture in JPEG or GIF.
+
 
 - project description (with model architecture img/gif, optional)
 - setup:
