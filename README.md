@@ -45,9 +45,13 @@ Describe your dataset information here. Provide a screenshot for some of your da
 
 ### Short Video
 Provide a link to your short video, that should includes the project background and how it works.
+- Link: https://...
 
 ## References
 Provide all links that support this final project, i.e., papers, GitHub repositories, websites, etc.
+- Link: https://...
+- Link: https://...
+- Link: https://...
 
 ## Additional Comments
 Provide your team's additional comments or final remarks for this project. For example,
@@ -67,4 +71,4 @@ If you find this project useful, we'd grateful if you cite this repository:
 For academic and non-commercial use only.
 
 ## Acknowledgement
-This project entitled <b>YOUR PROJECT TITLE HERE</b> is supported and funded by Startup Campus Indonesia and Indonesian Ministry of Education and Culture through the "Kampus Merdeka: Magang dan Studi Independen Bersertifikasi (MSIB)" program. Startup Campus was awarded as one of the most innovative startups in Asia Pacific by Amazon Web Services (AWS) by 2022.
+This project entitled <b>YOUR PROJECT TITLE HERE</b> is supported and funded by Startup Campus Indonesia and Indonesian Ministry of Education and Culture through the "Kampus Merdeka: Magang dan Studi Independen Bersertifikasi (MSIB)" program.
