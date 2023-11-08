@@ -5,6 +5,7 @@ Please describe your Startup Campus final project here. You may include your mod
 
 Contributor:
 | Full Name | Affiliation | Email | Role |
+| --- | --- | --- | --- |
 | ... | ... | ... | ... |
 | ... | ... | ... | ... |
 | Nicholas Dominic | Startup Campus, AI Track | nic.dominic@icloud.com | Supervisor |
@@ -15,6 +16,8 @@ Contributor:
 - package name (version: ...)
 
 ### Environment
+| | |
+| --- | --- |
 | CPU | Example: |
 | GPU | Example: |
 | RAM | Example:  |
