@@ -3,7 +3,7 @@
 ## Project Description
 Please describe your Startup Campus final project here. You may include your model architecture in JPEG or GIF.
 
-Contributor:
+## Contributor
 | Full Name | Affiliation | Email | Role |
 | --- | --- | --- | --- |
 | ... | ... | ... | ... |
@@ -14,16 +14,22 @@ Contributor:
 ### Prerequisite Packages (Dependencies)
 - package name (version: ...)
 - package name (version: ...)
+- pandas==2.1.0
+- openai==0.28.0
+- google-cloud-aiplatform==1.34.0
+- google-cloud-bigquery==3.12.0
 
 ### Environment
 | | |
 | --- | --- |
-| CPU | Example: |
-| GPU | Example: |
-| RAM | Example:  |
-| OS | Example: |
+| CPU | Example: Apple M3 Pro 12-core CPU |
+| GPU | Example: Nvidia A100 (x1) |
+| ROM | Example: 1 TB SSD |
+| RAM | Example: 36 GB |
+| OS | Example: macOS Sonoma v14.1.1 |
 
 ## Dataset
+Describe your dataset information here. Provide a screenshot for some of your dataset samples (for example, if you're using CIFAR10 dataset, then show an image for each class).
 
 ## Results
 ### Model Performance
@@ -38,16 +44,27 @@ Contributor:
 ### Business Model Canvas
 
 ### Short Video
-latar belakang & cara kerja project)
+Provide a link to your short video, that should includes the project background and how it works.
 
-## Code and Paper References
+## References
+Provide all links that support this final project, i.e., papers, GitHub repositories, websites, etc.
 
 ## Additional Comments
+Provide your team's additional comments or final remarks for this project. For example,
+1. ...
+2. ...
+3. ...
 
 ## How to Cite
+If you find this project useful, we'd grateful if you cite this repository:
+```
+@article{
+...
+}
+```
 
 ## License
 For academic and non-commercial use only.
 
 ## Acknowledgement
-Startup Campus
+This project entitled <b>YOUR PROJECT TITLE HERE</b> is supported and funded by Startup Campus Indonesia and Indonesian Ministry of Education and Culture through the "Kampus Merdeka: Magang dan Studi Independen Bersertifikasi (MSIB)" program. Startup Campus was awarded as one of the most innovative startups in Asia Pacific by Amazon Web Services (AWS) by 2022.
