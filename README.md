@@ -36,27 +36,29 @@ Describe your dataset information here. Provide a screenshot for some of your da
 ### Model Performance
 Describe all results found in your final project experiments, including hyperparameters tuning and architecture modification performances. Put it into table format. Please show pictures (of model accuracy, loss, etc.) for more clarity.
 1. Metrics
+
    Inform your model validation performances, as follows:
       - For classification tasks, use **Precision and Recall**.
       - For object detection tasks, use ...
       - For image retrieval tasks, use ...
       - For optical character recognition (OCR) tasks, use **Word Error Rate (WER) and Character Error Rate (CER)**.
       - For adversarial-based generative tasks, use **Peak Signal-to-Noise Ratio (PNSR)**.
-   
+
+
    | model | epoch | learning_rate | batch_size | optimizer | loss | acc | f1_score | ... |
    | --- | --- | --- | --- | --- | --- | --- | --- | --- |
    | vit_b_16 | 1000 |  0.0001 | 32 | Adam | 0.093 | 88.34% | 84.15% | ... |
    | vit_l_32 | 2500 | 0.00001 | 128 | SGD | 0.041 | 90.19% | 87.55% | ... |
    | ... | ... | ... | ... | ... | ... | ... | ... | ... | 
 
-2. Ablation Study
+3. Ablation Study
    | model | layer_A | layer_B | layer_C | ... | top1_acc | top5_acc |
    | --- | --- | --- | --- | --- | --- | --- |
    | vit_b_16 | Conv(3x3, 64) x2 | Conv(3x3, 512) x3 | Conv(1x1, 2048) x3 | ... | 77.43% | 80.08% |
    | vit_b_16 | Conv(3x3, 32) x3 | Conv(3x3, 128) x3 | Conv(1x1, 1028) x2 | ... | 72.11% | 76.84% |
    | ... | ... | ... | ... | ... | ... | ... |
 
-3. Training/Validation Curve
+4. Training/Validation Curve
    Insert an image regarding your training and evaluation performances (especially their losses). The aim is to assess whether your model is fit, overfit, or underfit.
  
 ### Testing
