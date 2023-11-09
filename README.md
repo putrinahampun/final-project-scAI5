@@ -6,6 +6,9 @@ Please describe your Startup Campus final project here. You may should your <b>m
 ## Contributor
 | Full Name | Affiliation | Email | Role |
 | --- | --- | --- | --- |
+| ... | ... | ... | Team Lead |
+| ... | ... | ... | Member |
+| ... | ... | ... | Member |
 | ... | ... | ... | ... |
 | ... | ... | ... | ... |
 | Nicholas Dominic | Startup Campus, AI Track | nic.dominic@icloud.com | Supervisor |
