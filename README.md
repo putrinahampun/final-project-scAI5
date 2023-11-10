@@ -42,7 +42,7 @@ Describe all results found in your final project experiments, including hyperpar
 #### 1. Metrics
 Inform your model validation performances, as follows:
 - For classification tasks, use **Precision and Recall**.
-- For object detection tasks, use **Precision and Recall**. Additionaly, you may also use **Intersection over Union (IoU)***.
+- For object detection tasks, use **Precision and Recall**. Additionaly, you may also use **Intersection over Union (IoU)**.
 - For image retrieval tasks, use **Precision and Recall**.
 - For optical character recognition (OCR) tasks, use **Word Error Rate (WER) and Character Error Rate (CER)**.
 - For adversarial-based generative tasks, use **Peak Signal-to-Noise Ratio (PNSR)**. Additionally, for specific GAN tasks,
