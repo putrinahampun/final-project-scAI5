@@ -4,14 +4,14 @@
 Please describe your Startup Campus final project here. You may should your <b>model architecture</b> in JPEG or GIF.
 
 ## Contributor
-| Full Name | Affiliation | Email | Role |
-| --- | --- | --- | --- |
-| ... | ... | ... | Team Lead |
-| ... | ... | ... | Team Member |
-| ... | ... | ... | Team Member |
-| ... | ... | ... | ... |
-| ... | ... | ... | ... |
-| Nicholas Dominic | Startup Campus, AI Track | nic.dominic@icloud.com | Supervisor |
+| Full Name | Affiliation | Email | LinkedIn | Role |
+| --- | --- | --- | --- | --- |
+| ... | ... | ... | ... | Team Lead |
+| ... | ... | ... | ... | Team Member |
+| ... | ... | ... | ... |Team Member |
+| ... | ... | ... | ... | ... |
+| ... | ... | ... | ... | ... |
+| Nicholas Dominic | Startup Campus, AI Track | nic.dominic@icloud.com | [link](https://linkedin.com/in/nicholas-dominic) | Supervisor |
 
 ## Setup
 ### Prerequisite Packages (Dependencies)
