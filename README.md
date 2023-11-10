@@ -7,20 +7,20 @@ Please describe your Startup Campus final project here. You may should your <b>m
 | Full Name | Affiliation | Email | Role |
 | --- | --- | --- | --- |
 | ... | ... | ... | Team Lead |
-| ... | ... | ... | Member |
-| ... | ... | ... | Member |
+| ... | ... | ... | Team Member |
+| ... | ... | ... | Team Member |
 | ... | ... | ... | ... |
 | ... | ... | ... | ... |
 | Nicholas Dominic | Startup Campus, AI Track | nic.dominic@icloud.com | Supervisor |
 
 ## Setup
 ### Prerequisite Packages (Dependencies)
-- package name (version: ...)
-- package name (version: ...)
 - pandas==2.1.0
 - openai==0.28.0
 - google-cloud-aiplatform==1.34.0
 - google-cloud-bigquery==3.12.0
+- ...
+- ...
 
 ### Environment
 | | |
