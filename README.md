@@ -70,7 +70,7 @@ Any improvements or modifications of your base model, should be summarized in th
 Insert an image regarding your training and evaluation performances (especially their losses). The aim is to assess whether your model is fit, overfit, or underfit.
  
 ### Testing
-Show some implementations (demos) of this model. For example, if your team works on object detection tasks, show an image or a video (or GIF) of how your model performs on the testing data.
+Show some implementations (demos) of this model. Show **at least 10 images** of how your model performs on the testing data.
 
 ### Deployment (Optional)
 Describe and show how you deploy this project (e.g., using Streamlit or Flask), if any.
