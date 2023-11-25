@@ -5,12 +5,15 @@ Please describe your Startup Campus final project here. You may should your <b>m
 
 ## Contributor
 | Full Name | Affiliation | Email | LinkedIn | Role |
-| --- | --- | --- | --- | --- |
-| ... | ... | ... | ... | Team Lead |
-| ... | ... | ... | ... | Team Member |
-| ... | ... | ... | ... |Team Member |
-| ... | ... | ... | ... | ... |
-| ... | ... | ... | ... | ... |
+| Ridhatullah Akmalurrizal F. | Universitas Padjadjaran | --- | --- | Team Lead |
+| Ernawati Prahesta | Institut Teknologi 
+Telkom Purwokerto | ... | ... | Team Member |
+| Ivander Marvin A. | Universitas
+Sebelas Maret | ... | ... | Team Member |
+| Putri Yanti N. | Universitas Sumatera Utara | ... | ... |Team Member |
+| Fathia Riska A. | Universitas Bina
+Sarana Informatika | ... | ... | Team Member |
+| Khafizh Khairy | Universitas Riau | ... | ... | Team Member |
 | Nicholas Dominic | Startup Campus, AI Track | nic.dominic@icloud.com | [link](https://linkedin.com/in/nicholas-dominic) | Supervisor |
 
 ## Setup
