@@ -24,19 +24,19 @@ Please describe your Startup Campus final project here. You may should your <b>m
 - tqdm == 4.66.1
 - sklearn == 1.2.2
 - matplotlib == 3.7.1
+- python3 == 3.10.12 
 
 ### Environment
 | | |
 | --- | --- |
-| CPU | Example: Apple M3 Pro 12-core CPU |
-| GPU | Example: Nvidia A100 (x1) |
-| ROM | Example: 1 TB SSD |
-| RAM | Example: 36 GB |
-| OS | Example: macOS Sonoma v14.1.1 |
+| GPU | Tesla T4 |
+| ROM | 166.77 GB, used: 26.89 GB |
+| RAM | 12.68 GB, used: 1.54 GB |
+| OS  | microsoft windows v10.0.2 |
 
 ## Dataset
-Describe your dataset information here. Provide a screenshot for some of your dataset samples (for example, if you're using CIFAR10 dataset, then show an image for each class).
-- Link: https://...
+The dataset used consists images of 'Telur Ayam Ras' collected manually using a smartphone camera. The collected dataset comprises 600 egg images, with each quality category containing 200 eggs (Grade A, B, and C).
+Link: [drive_egg_dataset](https://drive.google.com/drive/folders/1--F2ivjU88cwfi_5Xko7VKb_V1QuAug7?usp=sharing)
 
 ## Results
 ### Model Performance
