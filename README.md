@@ -45,24 +45,14 @@ Link: [Access our dataset through this Link](https://drive.google.com/drive/fold
 
 ## Results
 ### Model Performance
-Describe all results found in your final project experiments, including hyperparameters tuning and architecture modification performances. Put it into table format. Please show pictures (of model accuracy, loss, etc.) for more clarity.
+In this task, several experiments and modifications were conducted on different versions of the ResNet architecture. The best results were achieved using the ResNet-18 architecture with additional Linear, ReLU, and Dropout layers. The optimal model was obtained by setting the parameters to batch_size = 64, learning_rate = 0.0001, and epoch = 100, resulting in an accuracy of 91%.
 
 #### 1. Metrics
-Inform your model validation performances, as follows:
-- For classification tasks, use **Precision and Recall**.
-- For object detection tasks, use **Precision and Recall**. Additionaly, you may also use **Intersection over Union (IoU)**.
-- For image retrieval tasks, use **Precision and Recall**.
-- For optical character recognition (OCR) tasks, use **Word Error Rate (WER) and Character Error Rate (CER)**.
-- For adversarial-based generative tasks, use **Peak Signal-to-Noise Ratio (PNSR)**. Additionally, for specific GAN tasks,
-  - For single-image super resolution (SISR) tasks, use **Structural Similarity Index Measure (SSIM)**.
-  - For conditional image-to-image translation tasks (e.g., Pix2Pix), use **Inception Score**.
-
-Feel free to adjust the columns in the table below.
 
 | model | epoch | learning_rate | batch_size | optimizer | val_loss | val_precision | val_recall | ... |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| vit_b_16 | 1000 |  0.0001 | 32 | Adam | 0.093 | 88.34% | 84.15% | ... |
-| vit_l_32 | 2500 | 0.00001 | 128 | SGD | 0.041 | 90.19% | 87.55% | ... |
+| ResNet-50 | 20 |  0.0001 | 32 | Adam | 0.093 | 88.34% | 84.15% | ... |
+| ResNet-18 | 50 | 0.001 | 64 | Adam | 0.041 | 90.19% | 87.55% | ... |
 | ... | ... | ... | ... | ... | ... | ... | ... | ... | 
 
 #### 2. Ablation Study
@@ -85,7 +75,7 @@ Describe and show how you deploy this project (e.g., using Streamlit or Flask), 
 
 ## Supporting Documents
 ### Presentation Deck
-- Link: https://...
+- Link: 
 
 ### Business Model Canvas
 Provide a screenshot of your Business Model Canvas (BMC). Give some explanations, if necessary.
