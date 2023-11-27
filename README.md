@@ -12,7 +12,7 @@ Please describe your Startup Campus final project here. You may should your <b>m
 | Ivander Marvin A.           | Universitas Sebelas Maret            | ivandermarvin09@gmail.com |[link](https://www.linkedin.com/in/ivander-marvin-68aa73220/)      | Team Member |
 | Putri Yanti N.              | Universitas Sumatera Utara           | putrinahampun26@gmail.com |[link](https://www.linkedin.com/in/putriyantinahampun/)            | Team Member |
 | Fathia Riska A.             | Universitas Bina Sarana Informatika  | fathiariskaamll@gmail.com |[link](https://www.linkedin.com/in/fathia-riska-amalia-602b52249/) | Team Member |
-| Khafizh Khairy              | Universitas Riau                     | ...                       | ...                                                               | Team Member |
+| Khafizh Khairy              | Universitas Riau                     | khafizhkhairy@gmail.com   |[link](https://www.linkedin.com/in/khafizh-khairy-5bb543262/)      | Team Member |
 | Rika Sahriana               | Startup Campus, AI Track             | rikasahriana28@gmail.com  |[link](https://www.linkedin.com/in/rikasahriana/)                  | Supervisor  |
 
 ## Setup
