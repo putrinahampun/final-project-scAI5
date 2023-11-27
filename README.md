@@ -35,11 +35,12 @@ Please describe your Startup Campus final project here. You may should your <b>m
 | OS  | microsoft windows v10.0.2 |
 
 ## Dataset
-The dataset used consists images of 'Telur Ayam Ras' collected manually using a smartphone camera. The collected dataset comprises 600 egg images, with each quality category containing 200 eggs (Grade A, B, and C).
+The dataset used consists images of 'Telur Ayam Ras' collected manually using a smartphone camera. The collected dataset comprises 600 egg images, with each quality category containing 200 eggs (Grade A, B, and C). 
+![WhatsApp Image 2023-11-27 at 11 17 35](https://github.com/putrinahampun/final-project-scAI5/assets/72849694/671346e3-fa00-4274-abac-a5368a2b90ab)
+
 
 Link: [drive_egg_dataset](https://drive.google.com/drive/folders/1--F2ivjU88cwfi_5Xko7VKb_V1QuAug7?usp=sharing)
-(Grade A)
-![IMG_2085](https://github.com/putrinahampun/final-project-scAI5/assets/72849694/64240a87-6208-4266-9f9e-dcb7a53e7369) 
+
 
 ## Results
 ### Model Performance
