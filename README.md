@@ -6,15 +6,15 @@ Please describe your Startup Campus final project here. You may should your <b>m
 ## Contributor
 
 | Full Name                   | Affiliation                          | Email                     | LinkedIn                                                     | Role        |
-
+|-----------------------------|--------------------------------------|---------------------------|--------------------------------------------------------------|-------------|
 | Ridhatullah Akmalurrizal F. | Universitas Padjadjaran              | ridhatullah216@gmail.com  |[link](https://www.linkedin.com/in/ridhatullahaf/)            | Team Lead   |
-
+|                             |                                      |                           |                                                              |             |
 | Ernawati Prahesta           | Institut Teknologi Telkom Purwokerto | ernawatiphss@gmail.com    |[link](http://www.linkedin.com/in/ernawatiprahesta)           | Team Member |
-
+|                             |                                      |                           |                                                              |             |
 | Ivander Marvin A.           | Universitas Sebelas Maret            | ivandermarvin09@gmail.com |[link](https://www.linkedin.com/in/ivander-marvin-68aa73220/) | Team Member |
-
+|                             |                                      |                           |                                                              |             |
 | Putri Yanti N.              | Universitas Sumatera Utara           | putrinahampun26@gmail.com |[link](https://www.linkedin.com/in/putriyantinahampun/)       | Team Member |
-
+|
 | Fathia Riska A.             | Universitas Bina Sarana Informatika  | ...                       | ...                                                          | Team Member |
 
 | Khafizh Khairy              | Universitas Riau                     | ...                       | ...                                                          | Team Member |
