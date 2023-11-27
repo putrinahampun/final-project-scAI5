@@ -5,30 +5,25 @@ Please describe your Startup Campus final project here. You may should your <b>m
 
 ## Contributor
 
-| Full Name                   | Affiliation                          | Email                     | LinkedIn                                                     | Role        |
-|-----------------------------|--------------------------------------|---------------------------|--------------------------------------------------------------|-------------|
-| Ridhatullah Akmalurrizal F. | Universitas Padjadjaran              | ridhatullah216@gmail.com  |[link](https://www.linkedin.com/in/ridhatullahaf/)            | Team Lead   |
-|                             |                                      |                           |                                                              |             |
-| Ernawati Prahesta           | Institut Teknologi Telkom Purwokerto | ernawatiphss@gmail.com    |[link](http://www.linkedin.com/in/ernawatiprahesta)           | Team Member |
-|                             |                                      |                           |                                                              |             |
-| Ivander Marvin A.           | Universitas Sebelas Maret            | ivandermarvin09@gmail.com |[link](https://www.linkedin.com/in/ivander-marvin-68aa73220/) | Team Member |
-|                             |                                      |                           |                                                              |             |
-| Putri Yanti N.              | Universitas Sumatera Utara           | putrinahampun26@gmail.com |[link](https://www.linkedin.com/in/putriyantinahampun/)       | Team Member |
-|
-| Fathia Riska A.             | Universitas Bina Sarana Informatika  | ...                       | ...                                                          | Team Member |
-
-| Khafizh Khairy              | Universitas Riau                     | ...                       | ...                                                          | Team Member |
-
-| Rika Sahriana               | Startup Campus, AI Track             | rikasahriana28@gmail.com  | [link](https://www.linkedin.com/in/rikasahriana/)            | Supervisor  |
+| Full Name                   | Affiliation                          | Email                     | LinkedIn                                                          | Role        |
+|-----------------------------|--------------------------------------|---------------------------|--------------------------------------------------------------     |-------------|
+| Ridhatullah Akmalurrizal F. | Universitas Padjadjaran              | ridhatullah216@gmail.com  |[link](https://www.linkedin.com/in/ridhatullahaf/)                 | Team Lead   |
+| Ernawati Prahesta           | Institut Teknologi Telkom Purwokerto | ernawatiphss@gmail.com    |[link](http://www.linkedin.com/in/ernawatiprahesta)                | Team Member |
+| Ivander Marvin A.           | Universitas Sebelas Maret            | ivandermarvin09@gmail.com |[link](https://www.linkedin.com/in/ivander-marvin-68aa73220/)      | Team Member |
+| Putri Yanti N.              | Universitas Sumatera Utara           | putrinahampun26@gmail.com |[link](https://www.linkedin.com/in/putriyantinahampun/)            | Team Member |
+| Fathia Riska A.             | Universitas Bina Sarana Informatika  | fathiariskaamll@gmail.com |[link](https://www.linkedin.com/in/fathia-riska-amalia-602b52249/) | Team Member |
+| Khafizh Khairy              | Universitas Riau                     | ...                       | ...                                                               | Team Member |
+| Rika Sahriana               | Startup Campus, AI Track             | rikasahriana28@gmail.com  |[link](https://www.linkedin.com/in/rikasahriana/)                  | Supervisor  |
 
 ## Setup
 ### Prerequisite Packages (Dependencies)
-- pandas==2.1.0
-- openai==0.28.0
-- google-cloud-aiplatform==1.34.0
-- google-cloud-bigquery==3.12.0
-- ...
-- ...
+- torch == 2.1.0+cu118
+- torchvision == 0.16.0+cu118
+- seaborn == 0.12.2
+- numpy == 1.23.5
+- tqdm == 4.66.1
+- sklearn == 1.2.2
+- matplotlib == 3.7.1
 
 ### Environment
 | | |
