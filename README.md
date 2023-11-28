@@ -78,7 +78,7 @@ Describe and show how you deploy this project (e.g., using Streamlit or Flask), 
 - Link: 
 
 ### Business Model Canvas
-Provide a screenshot of your Business Model Canvas (BMC). Give some explanations, if necessary.
+
 
 ### Short Video
 Provide a link to your short video, that should includes the project background and how it works.
@@ -86,9 +86,10 @@ Provide a link to your short video, that should includes the project background 
 
 ## References
 Provide all links that support this final project, i.e., papers, GitHub repositories, websites, etc.
-- Link: https://...
-- Link: https://...
-- Link: https://...
+- Link: https://towardsdatascience.com/understanding-and-visualizing-resnets-442284831be8 
+- Link: https://medium.com/@freshtechyy/a-detailed-introduction-to-resnet-and-its-implementation-in-pytorch-744b13c8074a 
+- Link: https://pytorch.org/hub/pytorch_vision_resnet/
+- Link: https://pytorch.org/vision/main/models/generated/torchvision.models.resnet18.html
 
 ## Additional Comments
 Provide your team's additional comments or final remarks for this project. For example,
