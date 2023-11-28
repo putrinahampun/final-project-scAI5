@@ -78,7 +78,8 @@ Describe and show how you deploy this project (e.g., using Streamlit or Flask), 
 - Link: 
 
 ### Business Model Canvas
-
+![BMC TIM D_page-0001](https://github.com/putrinahampun/final-project-scAI5/assets/72849694/0da309db-2374-4e0e-ad7e-edfb87ad90ca)
+![BMC TIM D_page-0002](https://github.com/putrinahampun/final-project-scAI5/assets/72849694/5f6456ae-680f-438f-a165-7f9d43ea2384)
 
 ### Short Video
 Provide a link to your short video, that should includes the project background and how it works.
