@@ -1,4 +1,4 @@
-# Egg Grading Automation: Quality Classification Based on its External Property (Shell Color) Through Transfer Learning Using ResNet-18
+# Egg Grading Automation: Quality Classification Based on its External Property (Shell Color) Using ResNet-18
 
 ## Project Description
 Please describe your Startup Campus final project here. You may should your <b>model architecture</b> in JPEG or GIF.
