@@ -56,7 +56,7 @@ Link: [Access our dataset through this Link](https://drive.google.com/drive/fold
 
 ## Results
 ### Model Performance
-In this task, some experiments and modifications were conducted on different versions of the ResNet architecture. The best results were achieved using the ResNet-18 architecture with additional Linear, ReLU, and Dropout layers. The optimal model was obtained by setting the parameters to batch_size = 64, learning_rate = 0.0001, and epoch = 100, resulting in an accuracy of 91%.
+In this task, some experiments and modifications were conducted on different versions of the ResNet architecture. The best results were achieved using the ResNet-18 architecture with additional Linear, ReLU, and Dropout layers. The optimal model was obtained by setting the parameters to **batch_size = 64, learning_rate = 0.0001, and epoch = 100**, resulting in an accuracy of **91%**.
 
 #### 1. Metrics
 
@@ -86,8 +86,8 @@ Dataset (10 images) saved here: [dataset-10-testing](https://drive.google.com/dr
 
 ![ezgif com-video-to-gif](https://github.com/putrinahampun/final-project-scAI5/assets/72849694/2f77b460-e0bf-4806-815c-6a33bce7682e)
 
-### Deployment (Optional)
-This project use "Streamlit Library" for deployment. There are two classification options available: **Singular Egg and Multiple Eggs in EggTray**.
+### Deployment
+This project uses "Streamlit Library" for deployment. There are two classification options available: **Singular Egg and Multiple Eggs in EggTray**.
 
 ![image](https://github.com/putrinahampun/final-project-scAI5/assets/72849694/797cbf6d-f256-494d-a5f7-86d89c6f2291)
 
