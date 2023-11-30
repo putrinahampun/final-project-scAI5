@@ -56,15 +56,16 @@ Link: [Access our dataset through this Link](https://drive.google.com/drive/fold
 
 ## Results
 ### Model Performance
-In this task, several experiments and modifications were conducted on different versions of the ResNet architecture. The best results were achieved using the ResNet-18 architecture with additional Linear, ReLU, and Dropout layers. The optimal model was obtained by setting the parameters to batch_size = 64, learning_rate = 0.0001, and epoch = 100, resulting in an accuracy of 91%.
+In this task, some experiments and modifications were conducted on different versions of the ResNet architecture. The best results were achieved using the ResNet-18 architecture with additional Linear, ReLU, and Dropout layers. The optimal model was obtained by setting the parameters to batch_size = 64, learning_rate = 0.0001, and epoch = 100, resulting in an accuracy of 91%.
 
 #### 1. Metrics
 
-| model | epoch | learning_rate | batch_size | optimizer | val_loss | val_precision | val_recall | ... |
+| model | epoch | learning_rate | batch_size | optimizer | val_loss | val_precision | val_recall |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ResNet-50 | 20 |  0.0001 | 32 | Adam | 0.093 | 88.34% | 84.15% | ... |
-| ResNet-18 | 50 | 0.001 | 64 | Adam | 0.041 | 90.19% | 87.55% | ... |
-| ... | ... | ... | ... | ... | ... | ... | ... | ... | 
+| ResNet-50 | 50 |  0.0005 | 32 | Adam | 0.568 | 78.18% | 70% | 
+| ResNet-50 | 50 | 0.0005 | 64 | Adam | 0.572 | 88.07% | 86.6% | 
+| ResNet-18 | 100 | 0.001 | 32 | Adam | 0.559 | 86.48% | 86.67% |
+| ResNet-18 | 100 | 0.0001 | 64 | Adam | 0.554 | 93% | 91.67% |
 
 #### 2. Ablation Study
 Any improvements or modifications of your base model, should be summarized in this table. Feel free to adjust the columns in the table below.
