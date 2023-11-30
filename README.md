@@ -1,7 +1,10 @@
 # Egg Grading Automation: Quality Classification Based on its External Property (Shell Color) Using ResNet-18
 
 ## Project Description
-Please describe your Startup Campus final project here. You may should your <b>model architecture</b> in JPEG or GIF.
+🖼️ Background :
+Egg is a primary source of protein and possess high nutritional value. The relatively low cost of eggs makes them the fourth most consumed commodity among the Indonesian population (BPS, 2021). Eggs vary in quality and are categorized into three grades according to the Indonesian National Standard (SNI): Grade A, B, and C. One observable factor used to classify egg quality is the "egg color". However, in some cases, such as with egg vendors, egg classification is still done manually, leading to time-consuming processes. Additionally, consumers often rely solely on egg size when making purchases, despite the fact that egg size may not necessarily reflect egg quality.
+
+🎯 Target: This project aims to develop a system that can automatically grade eggs into three quality categories, namely Grade A, B, and C, in accordance with the Indonesian National Standard (SNI) based on egg color.
 
 ## Contributor
 
@@ -35,12 +38,15 @@ Please describe your Startup Campus final project here. You may should your <b>m
 | OS  | microsoft windows v10.0.2 |
 
 ## Dataset
-The dataset used consists of images of 'Commercial Chicken Eggs' collected manually using a smartphone camera. The images were captured at a distance of approximately 10cm with a plain white egg background. The dataset comprises 600 egg images categorized into three quality classes: Grade A, Grade B, and Grade C. Below are examples of egg images, arranged from left to right representing Grade A, Grade B, and Grade C, respectively. 
+The dataset used consists of images of 'Telur Ayam Ras' collected manually using a smartphone camera.
+The collected dataset comprises 600 egg images, with each quality category containing 200 eggs (Grade A, B, and C).
+Egg Color Criteria:
+- Grade A: Brown
+- Grade B: Light Brown
+- Grade C: Off-White Brown
+Link: [Access our dataset through this Link](https://drive.google.com/drive/folders/1--F2ivjU88cwfi_5Xko7VKb_V1QuAug7?usp=sharing)
 
 ![WhatsApp Image 2023-11-27 at 11 17 35](https://github.com/putrinahampun/final-project-scAI5/assets/72849694/671346e3-fa00-4274-abac-a5368a2b90ab)
-
-
-Link: [Access our dataset through this Link](https://drive.google.com/drive/folders/1--F2ivjU88cwfi_5Xko7VKb_V1QuAug7?usp=sharing)
 
 
 ## Results
