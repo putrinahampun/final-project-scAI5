@@ -61,7 +61,7 @@ In this task, some experiments and modifications were conducted on different ver
 #### 1. Metrics
 
 | model | epoch | learning_rate | batch_size | optimizer | val_loss | val_precision | val_recall |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | 
 | ResNet-50 | 50 |  0.0005 | 32 | Adam | 0.568 | 78.18% | 70% | 
 | ResNet-50 | 50 | 0.0005 | 64 | Adam | 0.572 | 88.07% | 86.6% | 
 | ResNet-18 | 100 | 0.001 | 32 | Adam | 0.559 | 86.48% | 86.67% |
