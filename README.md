@@ -81,12 +81,22 @@ Any improvements or modifications of your base model, should be summarized in th
 
 ### Testing
 Demo for testing some images:
-Dataset (10 images) saved here: [dataset-10-testing](https://drive.google.com/drive/folders/1h-1Jk1m0Bd6O3e9RFSYZgwWaos7KVX0i?usp=sharing)
 
+Dataset (10 images) saved here: [dataset-10-testing](https://drive.google.com/drive/folders/1h-1Jk1m0Bd6O3e9RFSYZgwWaos7KVX0i?usp=sharing)
 ![ezgif com-video-to-gif](https://github.com/putrinahampun/final-project-scAI5/assets/72849694/2f77b460-e0bf-4806-815c-6a33bce7682e)
 
 ### Deployment (Optional)
-Describe and show how you deploy this project (e.g., using Streamlit or Flask), if any.
+This project use "Streamlit Library" for deployment. There are two classification options available: singular egg and multiple eggs in an egg tray.
+
+![image](https://github.com/putrinahampun/final-project-scAI5/assets/72849694/d7041fc5-366d-4606-beb5-69b384cd270a)
+
+
+Procedures:
+- Identify your object (is it single egg or multiple egg?). Then, select the options provided (Single Egg / Multiple Egg in EggTray)
+- Upload your image.
+- For 'Single Egg' image, the model will output the prediction results as soon as the image is uploaded.
+- For 'Multiple Egg in EggTray' image, you must first input the 'row' and 'column' values of the egg image to help the model perform the 'blocking automate' process. After that, the model will return the prediction result.
+- blocking automate is used to separate each egg image from the eggtray image, so the model can classify the eggs. 
 
 ## Supporting Documents
 ### Presentation Deck
@@ -106,6 +116,7 @@ Provide all links that support this final project, i.e., papers, GitHub reposito
 - Link: https://medium.com/@freshtechyy/a-detailed-introduction-to-resnet-and-its-implementation-in-pytorch-744b13c8074a 
 - Link: https://pytorch.org/hub/pytorch_vision_resnet/
 - Link: https://pytorch.org/vision/main/models/generated/torchvision.models.resnet18.html
+- Link: https://streamlit.io/ 
 
 ## Additional Comments
 Provide your team's additional comments or final remarks for this project. For example,
