@@ -33,6 +33,8 @@ Egg is a primary source of protein and possess high nutritional value. The relat
 
 ### Environment
 Colab's Environment:
+| | |
+|-----|----------|
 | GPU | Tesla T4 |
 | ROM | 166.77 GB, used: 26.89 GB |
 | RAM | 12.68 GB, used: 1.54 GB |
