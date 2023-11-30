@@ -81,7 +81,8 @@ Any improvements or modifications of your base model, should be summarized in th
 
 ### Testing
 Testing Model for Grade A images:
-https://github.com/putrinahampun/final-project-scAI5/assets/72849694/c06ff25f-8ffb-4d30-85cd-66b7930428ab
+
+![ezgif com-video-to-gif](https://github.com/putrinahampun/final-project-scAI5/assets/72849694/2f77b460-e0bf-4806-815c-6a33bce7682e)
 
 ### Deployment (Optional)
 Describe and show how you deploy this project (e.g., using Streamlit or Flask), if any.
