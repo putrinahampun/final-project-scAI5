@@ -80,16 +80,8 @@ Any improvements or modifications of your base model, should be summarized in th
  ![Screenshot 2023-11-25 121155](https://github.com/putrinahampun/final-project-scAI5/assets/72849694/19f2a508-8bdb-4937-8269-10348e79c410)
 
 ### Testing
-Show some implementations (demos) of this model. Show **at least 10 images** of how your model performs on the testing data.
-
 Testing Model for Grade A images:
-![image](https://github.com/putrinahampun/final-project-scAI5/assets/72849694/985c369e-73d1-4725-be61-732b77440ab4)
-![Screenshot 2023-11-30 135929](https://github.com/putrinahampun/final-project-scAI5/assets/72849694/28689255-5572-4938-9c1a-78588e7e4bbf)
-
-
-
-
-
+https://github.com/putrinahampun/final-project-scAI5/assets/72849694/c06ff25f-8ffb-4d30-85cd-66b7930428ab
 
 ### Deployment (Optional)
 Describe and show how you deploy this project (e.g., using Streamlit or Flask), if any.
