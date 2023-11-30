@@ -80,7 +80,8 @@ Any improvements or modifications of your base model, should be summarized in th
  ![Screenshot 2023-11-25 121155](https://github.com/putrinahampun/final-project-scAI5/assets/72849694/19f2a508-8bdb-4937-8269-10348e79c410)
 
 ### Testing
-Testing Model for Grade A images:
+Demo for testing some images:
+Dataset (10 images) saved here: [dataset-10-testing](https://drive.google.com/drive/folders/1h-1Jk1m0Bd6O3e9RFSYZgwWaos7KVX0i?usp=sharing)
 
 ![ezgif com-video-to-gif](https://github.com/putrinahampun/final-project-scAI5/assets/72849694/2f77b460-e0bf-4806-815c-6a33bce7682e)
 
