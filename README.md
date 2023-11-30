@@ -84,7 +84,8 @@ Show some implementations (demos) of this model. Show **at least 10 images** of 
 
 Testing Model for Grade A images:
 ![image](https://github.com/putrinahampun/final-project-scAI5/assets/72849694/985c369e-73d1-4725-be61-732b77440ab4)
-![Screenshot 2023-11-30 135929](https://github.com/putrinahampun/final-project-scAI5/assets/72849694/49fb968c-1295-472c-8f1d-72a9b741bf7a)
+![Screenshot 2023-11-30 135929](https://github.com/putrinahampun/final-project-scAI5/assets/72849694/28689255-5572-4938-9c1a-78588e7e4bbf)
+
 
 
 
