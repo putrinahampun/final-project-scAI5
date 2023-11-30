@@ -1,4 +1,4 @@
-# Egg Grading Automation: Quality Classification Based on its External Property (Shell Color) Using ResNet-18
+# 🥚 Egg Grading Automation: Quality Classification Based on its External Property (Shell Color) Using ResNet-18 🥚
 
 ## Project Description
 🖼️ Background :
@@ -32,7 +32,7 @@ Egg is a primary source of protein and possess high nutritional value. The relat
 - python3 == 3.10.12 
 
 ### Environment
-Colab's Environment:
+💻 Colab's Environment:
 | | |
 |-----|----------|
 | GPU | Tesla T4 |
@@ -87,11 +87,11 @@ Dataset (10 images) saved here: [dataset-10-testing](https://drive.google.com/dr
 ![ezgif com-video-to-gif](https://github.com/putrinahampun/final-project-scAI5/assets/72849694/2f77b460-e0bf-4806-815c-6a33bce7682e)
 
 ### Deployment (Optional)
-This project use "Streamlit Library" for deployment. There are two classification options available: singular egg and multiple eggs in an egg tray.
+This project use "Streamlit Library" for deployment. There are two classification options available: **Singular Egg and Multiple Eggs in EggTray**.
 
 ![image](https://github.com/putrinahampun/final-project-scAI5/assets/72849694/d7041fc5-366d-4606-beb5-69b384cd270a)
 
-Procedures:
+📔 Procedures:
 - Identify your object (is it single egg or multiple egg?). Then, select the options provided (Single Egg / Multiple Egg in EggTray)
 - Upload your image.
 - For 'Single Egg' image, the model will output the prediction results as soon as the image is uploaded.
