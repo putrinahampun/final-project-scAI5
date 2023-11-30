@@ -6,6 +6,8 @@ Egg is a primary source of protein and possess high nutritional value. The relat
 
 🎯 Target: This project aims to develop a system that can automatically grade eggs into three quality categories, namely Grade A, B, and C, in accordance with the Indonesian National Standard (SNI) based on egg color.
 
+![arsitektur_resnet18](https://github.com/putrinahampun/final-project-scAI5/assets/72849694/9650c7d6-770c-4a08-b1de-f776622dd992)
+
 ## Contributor
 
 | Full Name                   | Affiliation                          | Email                     | LinkedIn                                                          | Role        |
