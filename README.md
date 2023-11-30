@@ -32,8 +32,7 @@ Egg is a primary source of protein and possess high nutritional value. The relat
 - python3 == 3.10.12 
 
 ### Environment
-| | |
-| --- | --- |
+Colab's Environment:
 | GPU | Tesla T4 |
 | ROM | 166.77 GB, used: 26.89 GB |
 | RAM | 12.68 GB, used: 1.54 GB |
@@ -42,10 +41,12 @@ Egg is a primary source of protein and possess high nutritional value. The relat
 ## Dataset
 The dataset used consists of images of 'Telur Ayam Ras' collected manually using a smartphone camera.
 The collected dataset comprises 600 egg images, with each quality category containing 200 eggs (Grade A, B, and C).
+
 Egg Color Criteria:
 - Grade A: Brown
 - Grade B: Light Brown
 - Grade C: Off-White Brown
+
 Link: [Access our dataset through this Link](https://drive.google.com/drive/folders/1--F2ivjU88cwfi_5Xko7VKb_V1QuAug7?usp=sharing)
 
 ![WhatsApp Image 2023-11-27 at 11 17 35](https://github.com/putrinahampun/final-project-scAI5/assets/72849694/671346e3-fa00-4274-abac-a5368a2b90ab)
