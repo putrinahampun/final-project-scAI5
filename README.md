@@ -87,9 +87,11 @@ Dataset (10 images) saved here: [dataset-10-testing](https://drive.google.com/dr
 ![ezgif com-video-to-gif](https://github.com/putrinahampun/final-project-scAI5/assets/72849694/2f77b460-e0bf-4806-815c-6a33bce7682e)
 
 ### Deployment
-This project uses "Streamlit Library" for deployment. There are two classification options available: **Singular Egg and Multiple Eggs in EggTray**.
+📑 Library Used: Streamlit.
 
-![image](https://github.com/putrinahampun/final-project-scAI5/assets/72849694/797cbf6d-f256-494d-a5f7-86d89c6f2291)
+💻 IDE: Visual Studio Code.
+
+⚪ Classification Options : **Singular Egg and Multiple Eggs in EggTray**.
 
 📔 Procedures:
 - Identify your object (is it single egg or multiple egg?). Then, select the options provided (Single Egg / Multiple Egg in EggTray)
