@@ -1,10 +1,12 @@
 # 🥚 Egg Grading Automation: Quality Classification Based on its External Property (Shell Color) Using ResNet-18 🥚
 
 ## Project Description
-🖼️ Background :
+🖼️ **Background :**
+
 Egg is a primary source of protein and possess high nutritional value. The relatively low cost of eggs makes them the fourth most consumed commodity among the Indonesian population (BPS, 2021). Eggs vary in quality and are categorized into three grades according to the Indonesian National Standard (SNI): Grade A, B, and C. One observable factor used to classify egg quality is the "egg color". However, in some cases, such as with egg vendors, egg classification is still done manually, leading to time-consuming processes. Additionally, consumers often rely solely on egg size when making purchases, despite the fact that egg size may not necessarily reflect egg quality.
 
-🎯 Target: This project aims to develop a system that can automatically grade eggs into three quality categories, namely Grade A, B, and C, in accordance with the Indonesian National Standard (SNI) based on egg color.
+🎯 **Target:** 
+This project aims to develop a system that can automatically grade eggs into three quality categories, namely Grade A, B, and C, in accordance with the Indonesian National Standard (SNI) based on egg color.
 
 ![arsitektur_resnet18](https://github.com/putrinahampun/final-project-scAI5/assets/72849694/9650c7d6-770c-4a08-b1de-f776622dd992)
 
