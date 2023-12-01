@@ -65,8 +65,8 @@ In this task, some experiments and modifications were conducted on different ver
 | ResNet-50 | 50 |  0.0005 | 32 | Adam | 0.568 | 78.18% | 70% | 
 | ResNet-50 | 50 | 0.0005 | 64 | Adam | 0.572 | 88.07% | 86.6% |
 | ResNet-18 | 50 | 0.001 | 32 | Adam | 0.567 | 83.76% | 68.33% | 
-| ResNet-18 | 50 | 0.0001 | 64 | Adam | 0.557 | 90.24% | 90% | 
 | ResNet-18 | 100 | 0.001 | 32 | Adam | 0.559 | 86.48% | 86.67% | 
+| ResNet-18 | 50 | 0.0001 | 64 | Adam | 0.557 | 90.24% | 90% | 
 | **ResNet-18** | **100** | **0.0001** | **64** | **Adam** | **0.554** | **93%** | **91.67%** |
 
 #### 2. Training/Validation Curve
