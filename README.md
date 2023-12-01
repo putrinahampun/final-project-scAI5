@@ -69,16 +69,7 @@ In this task, some experiments and modifications were conducted on different ver
 | ResNet-18 | 100 | 0.001 | 32 | Adam | 0.559 | 86.48% | 86.67% | 
 | **ResNet-18** | **100** | **0.0001** | **64** | **Adam** | **0.554** | **93%** | **91.67%** |
 
-#### 2. Ablation Study
-Any improvements or modifications of your base model, should be summarized in this table. Feel free to adjust the columns in the table below.
-
-| model | layer_A | layer_B | layer_C | ... | top1_acc | top5_acc |
-| --- | --- | --- | --- | --- | --- | --- |
-| vit_b_16 | Conv(3x3, 64) x2 | Conv(3x3, 512) x3 | Conv(1x1, 2048) x3 | ... | 77.43% | 80.08% |
-| vit_b_16 | Conv(3x3, 32) x3 | Conv(3x3, 128) x3 | Conv(1x1, 1028) x2 | ... | 72.11% | 76.84% |
-| ... | ... | ... | ... | ... | ... | ... |
-
-#### 3. Training/Validation Curve
+#### 2. Training/Validation Curve
 ![Screenshot 2023-11-25 121155](https://github.com/putrinahampun/final-project-scAI5/assets/72849694/19f2a508-8bdb-4937-8269-10348e79c410)
 
 ### Testing
@@ -123,18 +114,21 @@ Provide all links that support this final project, i.e., papers, GitHub reposito
 - Link: https://streamlit.io/ 
 
 ## Additional Comments
-Provide your team's additional comments or final remarks for this project. For example,
-1. ...
-2. ...
-3. ...
+📌 **Scope of The Study** 
+    1. EGA is designed for egg distributors who still manually categorize egg quality.
+    2. EGA can classify individual eggs and multiple eggs in an egg tray.
+    3. Images of 'multiple eggs in egg tray' are captured from the top.
+    4. Uploaded egg images are clear and well-visible.
+    5. 'Multiple egg' images should have an egg tray background.
+    6. The size of the column and row values in the 'multiple eggs in egg tray' 
+    7. Classification is greater than or equal to 1.
+    8. Deployment results are currently accessed locally.
 
-## How to Cite
-If you find this project useful, we'd grateful if you cite this repository:
-```
-@article{
-...
-}
-```
+📑**Future Work** 
+    1. Enhance the quality and diversity of the dataset.
+    2. Enable EGA to perform real-time classification.
+    3. Make deployment results accessible online (deployable on devices such as Android).
+    4. Experiment with models other than ResNet to improve application performance.
 
 ## License
 For academic and non-commercial use only.
