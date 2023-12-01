@@ -105,11 +105,11 @@ Dataset (10 images) saved here: [dataset-10-testing](https://drive.google.com/dr
 ![BMC TIM D_page-0002](https://github.com/putrinahampun/final-project-scAI5/assets/72849694/5f6456ae-680f-438f-a165-7f9d43ea2384)
 
 ### Short Video
-Provide a link to your short video, that should includes the project background and how it works.
+The project will be explained through this video:
 - Link: https://...
 
 ## References
-Provide all links that support this final project, i.e., papers, GitHub repositories, websites, etc.
+The following are the references used in the creation of this project:
 - Link: https://towardsdatascience.com/understanding-and-visualizing-resnets-442284831be8 
 - Link: https://medium.com/@freshtechyy/a-detailed-introduction-to-resnet-and-its-implementation-in-pytorch-744b13c8074a 
 - Link: https://pytorch.org/hub/pytorch_vision_resnet/
@@ -118,22 +118,20 @@ Provide all links that support this final project, i.e., papers, GitHub reposito
 
 ## Additional Comments
 📌 **Scope of The Study** 
-
-    1. EGA is designed for egg distributors who still manually categorize egg quality.
-    2. EGA can classify individual eggs and multiple eggs in an egg tray.
-    3. Images of 'multiple eggs in egg tray' are captured from the top.
-    4. Uploaded egg images are clear and well-visible.
-    5. 'Multiple egg' images should have an egg tray background.
-    6. The size of the column and row values in the 'multiple eggs in egg tray' 
-    7. Classification is greater than or equal to 1.
-    8. Deployment results are currently accessed locally.
+- EGA is designed for egg distributors who still manually categorize egg quality.
+- EGA can classify individual eggs and multiple eggs in an egg tray.
+- Images of 'multiple eggs in egg tray' are captured from the top.
+- Uploaded egg images are clear and well-visible.
+- 'Multiple egg' images should have an egg tray background.
+- The size of the column and row values in the 'multiple eggs in egg tray'
+- Classification is greater than or equal to 1.
+- Deployment results are currently accessed locally.
 
 📑**Future Work** 
-
-    1. Enhance the quality and diversity of the dataset.
-    2. Enable EGA to perform real-time classification.
-    3. Make deployment results accessible online (deployable on devices such as Android).
-    4. Experiment with models other than ResNet to improve application performance.
+- Enhance the quality and diversity of the dataset.
+- Enable EGA to perform real-time classification.
+- Make deployment results accessible online (deployable on devices such as Android).
+- Experiment with models other than ResNet to improve application performance.
 
 ## License
 For academic and non-commercial use only.
