@@ -118,6 +118,7 @@ Provide all links that support this final project, i.e., papers, GitHub reposito
 
 ## Additional Comments
 📌 **Scope of The Study** 
+
     1. EGA is designed for egg distributors who still manually categorize egg quality.
     2. EGA can classify individual eggs and multiple eggs in an egg tray.
     3. Images of 'multiple eggs in egg tray' are captured from the top.
@@ -128,6 +129,7 @@ Provide all links that support this final project, i.e., papers, GitHub reposito
     8. Deployment results are currently accessed locally.
 
 📑**Future Work** 
+
     1. Enhance the quality and diversity of the dataset.
     2. Enable EGA to perform real-time classification.
     3. Make deployment results accessible online (deployable on devices such as Android).
@@ -137,4 +139,4 @@ Provide all links that support this final project, i.e., papers, GitHub reposito
 For academic and non-commercial use only.
 
 ## Acknowledgement
-This project entitled <b>"YOUR PROJECT TITLE HERE"</b> is supported and funded by Startup Campus Indonesia and Indonesian Ministry of Education and Culture through the "**Kampus Merdeka: Magang dan Studi Independen Bersertifikasi (MSIB)**" program.
+This project entitled <b>"Egg Grading Automation: Quality Classification Based on its External Property (Shell Color) Using ResNet-18"</b> is supported and funded by Startup Campus Indonesia and Indonesian Ministry of Education and Culture through the "**Kampus Merdeka: Magang dan Studi Independen Bersertifikasi (MSIB)**" program.
