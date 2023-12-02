@@ -123,8 +123,8 @@ The following are the references used in the creation of this project:
 - Images of 'multiple eggs in egg tray' are captured from the top.
 - Uploaded egg images are clear and well-visible.
 - 'Multiple egg' images should have an egg tray background.
-- The size of the column and row values in the 'multiple eggs in egg tray'
-- Classification is greater than or equal to 1.
+- The size of the column and row values in the 'multiple eggs in egg tray'.
+- The number of row and column are greater than or equal to 1.
 - Deployment results are currently accessed locally.
 
 📑**Future Work** 
