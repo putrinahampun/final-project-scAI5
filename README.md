@@ -3,7 +3,7 @@
 ## Project Description
 🖼️ **Background :**
 
-Egg is a primary source of protein and possess high nutritional value. The relatively low cost of eggs makes them the fourth most consumed commodity among the Indonesian population (BPS, 2021). Eggs vary in quality and are categorized into three grades according to the Indonesian National Standard (SNI): Grade A, B, and C. One observable factor used to classify egg quality is the "egg color". However, in some cases, such as with egg vendors, egg classification is still done manually, leading to time-consuming processes. Additionally, consumers often rely solely on egg size when making purchases, despite the fact that egg size may not necessarily reflect egg quality.
+Egg is a primary source of protein and possess high nutritional value. The relatively low cost of eggs makes them the fourth most consumed commodity among the Indonesian population (BPS, 2023). Eggs vary in quality and are categorized into three grades according to the Indonesian National Standard (SNI): Grade A, B, and C. One observable factor used to classify egg quality is the "egg color". However, in some cases, such as with egg vendors, egg classification is still done manually, leading to time-consuming processes. Additionally, consumers often rely solely on egg size when making purchases, despite the fact that egg size may not necessarily reflect egg quality.
 
 🎯 **Target:** 
 
