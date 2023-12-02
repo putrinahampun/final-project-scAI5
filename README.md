@@ -59,7 +59,7 @@ Link: [Access our dataset through this Link](https://drive.google.com/drive/fold
 
 ## Results
 ### Model Performance
-In this task, some experiments and modifications were conducted on different versions of the ResNet architecture. The best results were achieved using the ResNet-18 architecture with additional Linear, ReLU, and Dropout layers. The optimal model was obtained by setting the parameters to **batch_size = 64, learning_rate = 0.0001, and epoch = 100**, resulting in an accuracy of **91%**.
+In this task, some experiments and modifications were conducted on different versions of the ResNet architecture. The best results were achieved using the ResNet-18 architecture with additional Linear, ReLU, and Dropout layers. The optimal model was obtained by setting the parameters to **batch_size = 64, learning_rate = 0.0001, and epoch = 100**, resulting in an accuracy of **91.67%**.
 
 #### 1. Metrics
 
@@ -99,7 +99,7 @@ Link video for testing 10 images: [video_testing_10_images](https://drive.google
 
 ## Supporting Documents
 ### Presentation Deck
-- Link: 
+- Link: [Access the presentation deck through this link](https://www.canva.com/design/DAF1DM5FdqA/uBpHU3nBS8Hw5m0rmUWrMw/edit?utm_content=DAF1DM5FdqA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### Business Model Canvas
 ![BMC TIM D_page-0001](https://github.com/putrinahampun/final-project-scAI5/assets/72849694/0da309db-2374-4e0e-ad7e-edfb87ad90ca)
