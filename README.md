@@ -77,8 +77,9 @@ In this task, some experiments and modifications were conducted on different ver
 
 ### Testing
 Demo for testing some images:
-
 Dataset (10 images) saved here: [dataset-10-testing](https://drive.google.com/drive/folders/1h-1Jk1m0Bd6O3e9RFSYZgwWaos7KVX0i?usp=sharing)
+
+Link video for testing 10 images: [video_testing_10_images](https://drive.google.com/file/d/1AALh1IcvrKrmGFH25EJYeLZd34xO48jy/view?usp=sharing) 
 
 ![ezgif com-video-to-gif](https://github.com/putrinahampun/final-project-scAI5/assets/72849694/2f77b460-e0bf-4806-815c-6a33bce7682e)
 
@@ -106,7 +107,7 @@ Dataset (10 images) saved here: [dataset-10-testing](https://drive.google.com/dr
 
 ### Short Video
 The project will be explained through this video:
-- Link: https://drive.google.com/file/d/1JMhUHfqnuhK2JNTPWRlBPOolDdO758GU/view?usp=sharing 
+- Link: [Access the video through this link](https://drive.google.com/file/d/1JMhUHfqnuhK2JNTPWRlBPOolDdO758GU/view?usp=sharing)
 
 ## References
 The following are the references used in the creation of this project:
