@@ -106,7 +106,7 @@ Dataset (10 images) saved here: [dataset-10-testing](https://drive.google.com/dr
 
 ### Short Video
 The project will be explained through this video:
-- Link: https://...
+- Link: https://drive.google.com/file/d/1JMhUHfqnuhK2JNTPWRlBPOolDdO758GU/view?usp=sharing 
 
 ## References
 The following are the references used in the creation of this project:
