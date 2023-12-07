@@ -64,8 +64,8 @@ In this task, some experiments and modifications were conducted on different ver
 #### 1. Model Comparison 
 | model | epoch | learning_rate | batch_size | optimizer | val_loss | val_precision | val_recall |
 |-------|-------|---------------|------------|-----------|----------|---------------|------------|
-| EfficientNet-B0 | 15 | 0.001 | 32 | Adam | | 77.96% | 68.33% |
-| ResNet-50 | 15 | 0.001 | 32 | Adam | | 82.78% | 76.67% | 
+| EfficientNet-B0 | 15 | 0.001 | 32 | Adam | 0.606 | 77.96% | 68.33% |
+| ResNet-50 | 15 | 0.001 | 32 | Adam | 0.791 | 82.78% | 76.67% | 
 
 #### 2. Metrics
 
