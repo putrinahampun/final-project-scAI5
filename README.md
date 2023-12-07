@@ -61,7 +61,13 @@ Link: [Access our dataset through this Link](https://drive.google.com/drive/fold
 ### Model Performance
 In this task, some experiments and modifications were conducted on different versions of the ResNet architecture. The best results were achieved using the ResNet-18 architecture with additional Linear, ReLU, and Dropout layers. The optimal model was obtained by setting the parameters to **batch_size = 64, learning_rate = 0.0001, and epoch = 100**, resulting in an accuracy of **91.67%**.
 
-#### 1. Metrics
+#### 1. Model Comparison 
+| model | epoch | learning_rate | batch_size | optimizer | val_loss | val_precision | val_recall |
+|-------|-------|---------------|------------|-----------|----------|---------------|------------|
+| EfficientNet-B0 | 15 | 0.001 | 32 | Adam | | 77.96% | 68.33% |
+| ResNet-50 | 15 | 0.001 | 32 | Adam | | 82.78% | 76.67% | 
+
+#### 2. Metrics
 
 | model | epoch | learning_rate | batch_size | optimizer | val_loss | val_precision | val_recall |
 | --- | --- | --- | --- | --- | --- | --- | --- | 
@@ -119,6 +125,7 @@ The following are the references used in the creation of this project:
 
 ## Additional Comments
 📌 **Scope of The Study** 
+- The object used in this project is domestic / purebred chicken eggs 
 - EGA is designed for egg distributors who still manually categorize egg quality.
 - EGA can classify individual eggs and multiple eggs in an egg tray.
 - Images of 'multiple eggs in egg tray' are captured from the top.
