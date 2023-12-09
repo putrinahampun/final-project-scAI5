@@ -137,7 +137,7 @@ The following are the references used in the creation of this project:
 
 📑**Future Work** 
 - Enhance the quality and diversity of the dataset.
-- Enable EGA to perform real-time classification.
+- Enable EGA to perform real-time classification using Object Detection.
 - Make deployment results accessible online (deployable on devices such as Android).
 - Experiment with models other than ResNet to improve application performance.
 
